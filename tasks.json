@@ -1,0 +1,18 @@
+[
+    {
+        "task": "Kaj 1",
+        "done": true
+    },
+    {
+        "task": "Kaj 2",
+        "done": true
+    },
+    {
+        "task": "Kaj 3",
+        "done": false
+    },
+    {
+        "task": "Kaj 4",
+        "done": false
+    }
+]
